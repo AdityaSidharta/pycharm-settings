@@ -142,7 +142,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>261</Count>
+          <Count>262</Count>
         </Item>
       </Statistic>
       <Statistic Action="Enter Distraction Free Mode">
